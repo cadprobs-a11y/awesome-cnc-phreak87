@@ -83,6 +83,7 @@ Anwendung          | Beschreibung                            
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
 OpenJScad          | 3D-Design Programmierung, Javascript-Sprache | WEB+OSS
 BRL-CAD            | 3D-Design Programmierung, BRLCAD-Sprache     | WIN+OSS
+**[CADProps](https://www.cadprops.com/tools/step-viewer/)** | Browserbasierter STEP/STP-Viewer mit Mess- und Prüfwerkzeugen; Anzeigen und Messen sind ohne Konto möglich, Dateien werden serverseitig verarbeitet. Konvertierung, Kontospeicherung und Freigaben erfordern eine Anmeldung. Eigene Projektressource, keine unabhängige Empfehlung. | WEB
 Tinkercad          | Registrierung erforderlich                   | WEB+REG
 SketchUp           | Registrierung erforderlich                   | WIN+REG
 Autocad Fusion 360 | Parametrisch                                 | WIN+BUY
